@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+#logo img{
+    width: 200px;
+}
+#search{
+font-size: 20px;
+    width: 75%;
+    padding: 10px;
+    border-radius: 50px;
+}
+#location{
+    width: 150px;
+    font-size: 20px;
+    padding: 10px;
+}
+#signin{
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(249, 8, 8);
+    font-size: 20px;
+}
